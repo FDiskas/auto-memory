@@ -1,4 +1,4 @@
-# Auto Memory for skills.sh
+# Auto Memory for project memory
 
 A custom skill for persistent project memory that helps an agent remember durable decisions, business context, investigation outcomes, and tricky gotchas without redoing research in every session.
 
